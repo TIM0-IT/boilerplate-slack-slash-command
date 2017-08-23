@@ -1,0 +1,6 @@
+{
+  "slack": {
+    "temporaryType": "ephemeral",
+    "token": "slack_token"
+  }
+}
